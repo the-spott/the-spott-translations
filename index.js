@@ -64,5 +64,17 @@ export default {
   'message.scanning-error': 'An error occurred while scanning',
   'message.pairing-error': 'An error occurred while connecting',
   'message.ok': 'Ok!',
-  'message.login-failed': 'The email address or password you entered is incorrect'
+  'message.login-failed': 'The email address or password you entered is incorrect',
+  'message.error-while-retrieving-notifications': 'Error while retrieving notifications',
+  'message.session-created-successfully': 'Session created successfully',
+  'message.error-while-creating-session': 'Error while creating session',
+  'message.error-while-retrieving-sessions': 'Error while retrieving sessions',
+  'message.error-while-generating-token': 'Error while generating token',
+  'message.error-while-retrieving-user': 'Error while retrieving user',
+  'message.your-profile-was-successfully-updated': 'Your profile was successfully updated',
+  'message.error-while-updating-user': 'Error while updating user',
+  'message.error-while-retrieving-clients': 'Error while retrieving clients',
+  'message.error-while-retrieving-notifications-count': 'Error while retrieving notifications count',
+  'message.notification-sent-successfully': 'Notification sent successfully',
+  'message.error-while-creating-notification': 'Error while creating notification',
 }
