@@ -77,4 +77,15 @@ export default {
   'message.error-while-retrieving-notifications-count': 'Error while retrieving notifications count',
   'message.notification-sent-successfully': 'Notification sent successfully',
   'message.error-while-creating-notification': 'Error while creating notification',
+
+  'interface.forgot-password-email-title': 'Password assistance',
+  'interface.forgot-password-send-email': 'Send password assistance email',
+  'interface.forgot-password': 'Forgot your password?',
+  'interface.forgot-password-failed': 'There was a problem with resetting your password',
+  'interface.forgot-password-code': 'Verification code',
+  'interface.forgot-password-reset-password': 'Reset password',
+  'interface.forgot-password-changed': 'Password changed successfully',
+  'interface.forgot-password-email-sent': 'You’ve been emailed a password reset instruction. Enter the verification code that was sent to your email.',
+  'interface.forgot-password-enter-email': 'Enter the email address associated with your account.',
+  'interface.forgot-password-go-login': 'Go to login'
 }
