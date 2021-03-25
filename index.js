@@ -87,5 +87,5 @@ export default {
   'interface.forgot-password-changed': 'Password changed successfully',
   'interface.forgot-password-email-sent': 'You’ve been emailed a password reset instruction. Enter the verification code that was sent to your email.',
   'interface.forgot-password-enter-email': 'Enter the email address associated with your account.',
-  'interface.forgot-password-go-login': 'Go to login'
+  'interface.forgot-password-go-login': 'Go to login - test'
 }
